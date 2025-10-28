@@ -1,0 +1,9 @@
+.Rproj.user
+**.xlsx
+test_scripts/
+**.txt
+**.sscore
+**.png
+**.jpg
+
+!inputs/*
